@@ -14,8 +14,6 @@
  * Time Complexity: O(N) where N is the number of nodes
  * Space Complexity: O(H) where H is the height of the tree (recursion stack)
  * 
- * Author: [Your Name]
- * Date: October 11, 2025
  */
 
 #include <iostream>
