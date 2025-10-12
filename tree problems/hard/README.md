@@ -45,12 +45,7 @@ queue<pair<TreeNode*, pair<int, int>>> q;
 - Sort nodes at same position correctly
 - Handle tie-breaking rules efficiently
 
-## Interview Tips
 
-- Always clarify if path must go through root
-- Ask about negative values and their handling
-- Discuss space-time tradeoffs for traversal problems
-- Test with edge cases: single node, all negative, skewed tree
 
 ---
 
