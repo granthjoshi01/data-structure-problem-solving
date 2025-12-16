@@ -5,10 +5,10 @@ Advanced tree problems requiring complex algorithms and optimization techniques.
 
 | Problem | Topics | Time | Space | Status |
 |---------|--------|------|-------|--------|
-| [Binary Tree Maximum Path Sum](bt_maxPathSum.cpp) | DFS, Recursion | O(N) | O(H) | ✅ |
-| [Vertical Order Traversal](verticalTravers.cpp) | BFS, Map, Sorting | O(N log N) | O(N) | ✅ |
+| [Binary Tree Maximum Path Sum](bt_maxPathSum.cpp) | DFS, Recursion | O(N) | O(H) | 
+| [Vertical Order Traversal](verticalTravers.cpp) | BFS, Map, Sorting | O(N log N) | O(N) | 
 
-**Legend:** ✅ Completed | ⏳ In Progress
+
 
 ## Key Concepts
 
