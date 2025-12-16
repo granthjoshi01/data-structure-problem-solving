@@ -6,14 +6,14 @@ Collection of medium-difficulty tree problems with optimized solutions.
 
 | Problem | Topics | Time | Space | Status |
 |---------|--------|------|-------|--------|
-| [Vertical Order Traversal](vertical_order_traversal.cpp) | BFS, Map | O(N log N) | O(N) | ✅ |
-| [Boundary Traversal](boundary_traversal.cpp) | DFS | O(N) | O(H) | ✅ |
-| [Lowest Common Ancestor](lowest_common_ancestor.cpp) | Recursion | O(N) | O(H) | ⏳ |
-| [Zigzag Level Order](zigzag_traversal.cpp) | BFS | O(N) | O(N) | ⏳ |
-| [Right Side View](right_side_view.cpp) | BFS/DFS | O(N) | O(H) | ⏳ |
-| [Path Sum II](path_sum_ii.cpp) | Backtracking | O(N) | O(H) | ⏳ |
+| [Vertical Order Traversal](vertical_order_traversal.cpp) | BFS, Map | O(N log N) | O(N) | 
+| [Boundary Traversal](boundary_traversal.cpp) | DFS | O(N) | O(H) | 
+| [Lowest Common Ancestor](lowest_common_ancestor.cpp) | Recursion | O(N) | O(H) | 
+| [Zigzag Level Order](zigzag_traversal.cpp) | BFS | O(N) | O(N) | 
+| [Right Side View](right_side_view.cpp) | BFS/DFS | O(N) | O(H) | 
+| [Path Sum II](path_sum_ii.cpp) | Backtracking | O(N) | O(H) | 
 
-**Legend:** ✅ Completed | ⏳ In Progress
+
 
 ## Key Concepts
 
